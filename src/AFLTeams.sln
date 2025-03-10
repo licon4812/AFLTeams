@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AFLTeams", "AFLTeams\AFLTeams.csproj", "{586DA8C8-E616-4152-BA57-6F05EA216BAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AFLTeams.Tests", "AFLTeams.Tests\AFLTeams.Tests.csproj", "{045CC40D-5C6E-4C86-85D8-B6815038FD9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{586DA8C8-E616-4152-BA57-6F05EA216BAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{586DA8C8-E616-4152-BA57-6F05EA216BAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{586DA8C8-E616-4152-BA57-6F05EA216BAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{586DA8C8-E616-4152-BA57-6F05EA216BAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{045CC40D-5C6E-4C86-85D8-B6815038FD9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{045CC40D-5C6E-4C86-85D8-B6815038FD9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{045CC40D-5C6E-4C86-85D8-B6815038FD9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{045CC40D-5C6E-4C86-85D8-B6815038FD9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7678F50C-D236-4943-838D-7B9A08BF06E1}
+	EndGlobalSection
+EndGlobal
