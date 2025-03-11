@@ -13,6 +13,6 @@ var teams = AFLTeamEnumExtensions.DisplayNamesDictionary.Values;
 var geelong = AFLTeam.Geelong;
 
 //Get the display name of a team
-var geelongDisplayName = AFLTeamEnum.Geelong.ToDisplayFast();
+var geelongDisplayName = AFLTeam.Geelong.ToDisplayFast();
 ```
 To see how to use the source generators go [here](https://github.com/EngRajabi/Enum.Source.Generator)
