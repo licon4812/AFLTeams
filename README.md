@@ -10,7 +10,7 @@ Example usage:
 var teams = AFLTeamEnumExtensions.DisplayNamesDictionary.Values;
 
 // Using a specific team
-var geelong = AFLTeamEnum.Geelong;
+var geelong = AFLTeam.Geelong;
 
 //Get the display name of a team
 var geelongDisplayName = AFLTeamEnum.Geelong.ToDisplayFast();
